@@ -5,3 +5,7 @@ Bu proje Github,web sitesinin bir klonudur ve modern SCSS kullanılarak gelişti
 <h1>Ekran Görüntüsü</h1>
 
 ![](ekran.png)
+
+<h1>Demo</h1>
+
+![](kayıt.gif)
